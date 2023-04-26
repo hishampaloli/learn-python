@@ -5,3 +5,5 @@ for i, el in enumerate(array):
     if array.count(el) > 1:
         if el not in dup:
             dup.append(el)
+
+print(34)            
